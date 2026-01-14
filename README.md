@@ -19,3 +19,9 @@ The chart below shows how extreme market emotions often precede price shifts:
 * **Python** (Pandas, Matplotlib, Seaborn)
 * **SQL** (SQLite)
 * **Financial APIs**
+  
+## Key Insights
+Based on the generated analysis, several patterns were observed:
+* **Sentiment as a Leading Indicator:** Significant drops in the Fear & Greed Index (below 20 - Extreme Fear) often preceded local price bottoms, suggesting a potential "buy the dip" opportunity.
+* **Correlation:** There is a strong positive correlation between market sentiment and short-term price movements.
+* **Greed Peaks:** Periods of "Extreme Greed" (above 80) were frequently followed by price consolidations or corrections, indicating market overheating.
