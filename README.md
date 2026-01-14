@@ -13,7 +13,7 @@ This project explores the relationship between Bitcoin (BTC) price volatility an
 ## Key Visual Insight
 The chart below shows how extreme market emotions often precede price shifts:
 
-![BTC Sentiment Analysis](price_sentiment_analysis.png)
+![BTC Sentiment Analysis](./price_sentiment_analysis.png)
 
 ## Tech Stack
 * **Python** (Pandas, Matplotlib, Seaborn)
